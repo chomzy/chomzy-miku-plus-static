@@ -93,6 +93,7 @@
 
 	{"name":"菊咲朗",	"filename":"80_1001.png"},
 	{"name":"小鳥遊　啓",	"filename":"80_1002.png"},
+	{"name":"真羽 優",	"filename":"80_1003.png"},
 
 	{"name":"菊咲朗",	"filename":"90_1001.png"},
 	{"name":"小鳥遊　啓",	"filename":"90_1002.png"},
@@ -134,6 +135,11 @@
 
 	{"name":"ヲン",		"filename":"200_1001.png"},
 	{"name":"もずく",	"filename":"200_1002.png"},
+
+	{"name":"真羽 優",	"filename":"220_1001.png"},
+	{"name":"真羽 優",	"filename":"230_1001.png"},
+	{"name":"真羽 優",	"filename":"240_1001.png"},
+
 
 	{"name":"ちこ",		"filename":"300_1001.png"}
 ],
