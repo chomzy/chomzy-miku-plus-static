@@ -135,7 +135,14 @@
 	{"name":"のんたん",	"filename":"110_1111.png"},
 	{"name":"マイク",	"filename":"110_1001.png"},
 
+	{"name":"鈴ノ音",	"filename":"110_1003.png"},
+	{"name":"Homare",	"filename":"110_1004.png"},
+	{"name":"しいたけ",	"filename":"110_1005.png"},
+
+
 	{"name":"りんちゅ",	"filename":"120_1001.png"},
+	{"name":"山田",	"filename":"120_1002.png"},
+	{"name":"Yueco",	"filename":"120_1003.png"},
 
 
 	{"name":"菊咲朗",	"filename":"140_1001.png"},
@@ -173,7 +180,11 @@
 	{"name":"真羽 優",	"filename":"240_1001.png"},
 
 
-	{"name":"ちこ",		"filename":"300_1001.png"}
+	{"name":"ちこ",		"filename":"300_1001.png"},
+
+	{"name":"桜城　律",		"filename":"400_1001.png"},
+	{"name":"heremia",		"filename":"400_1002.png"}
+
 ],
 "rootUrl":"https://raw.githubusercontent.com/chomzy/chomzy-miku-plus-static/master/images/"
 }
